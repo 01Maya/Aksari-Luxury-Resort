@@ -37,3 +37,12 @@ The design ensures seamless navigation, responsiveness, and strong visual storyt
 - **Footer:** Contains contact info, links, and newsletter section.  
 
 ---
+
+## 🛠️ Tech Stack
+- **Next.js**  
+- **Tailwind CSS**  
+- **Framer Motion**  
+- **shadcn/ui**  
+
+---
+
