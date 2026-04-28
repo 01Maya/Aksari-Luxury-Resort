@@ -16,7 +16,6 @@ const inter = Inter({
 export const metadata: Metadata = {
   title: 'Aksari Luxury Resort | Coastal Paradise',
   description: 'Allow peace and tranquility to arrive at Aksari, a luxury coastal resort destination offering unparalleled experiences and timeless elegance.',
-  generator: 'v0.app',
   manifest: '/manifest.json',
   icons: {
     icon: [
