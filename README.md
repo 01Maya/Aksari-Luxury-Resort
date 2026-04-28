@@ -17,5 +17,23 @@ The design ensures seamless navigation, responsiveness, and strong visual storyt
 - 📱 Fully Responsive Design  
 - 🎞️ Smooth Animations (fade, slide, parallax)  
 - 🧭 Navigation to Section (smooth scroll)  
-- 🖱️ Hover Effects (cards, images, buttons)  
-- ⏳ Countdown Timer  
+- 🖱️ Hover Effects (cards, images, buttons)
+
+   
+---
+
+## 🧩 Sections
+
+- **Hero:** Displays resort name, tagline, and call-to-action.  
+- **About Us:** Introduces the resort with elegant description and highlights.  
+- **Image Showcase:** Presents a featured luxury visual with immersive styling.  
+- **Experience Intro:** Highlights travel philosophy with image + text layout.  
+- **Nature Section:** Emphasizes relaxation and connection with nature.  
+- **Stats:** Shows key metrics like guests, years, and satisfaction.  
+- **Rooms & Suites:** Displays luxury room options with gallery-style cards.  
+- **Experiences:** Showcases curated activities like yoga, dining, and wellness.  
+- **Testimonials:** Displays guest reviews with clean card layout.  
+- **Location:** Shows map, address, and contact details.  
+- **Footer:** Contains contact info, links, and newsletter section.  
+
+---
