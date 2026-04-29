@@ -48,3 +48,6 @@ The design ensures seamless navigation, responsiveness, and strong visual storyt
 
 ## 🔗  Preview
 
+https://aksari-luxury-resort.vercel.app/#rooms
+
+
