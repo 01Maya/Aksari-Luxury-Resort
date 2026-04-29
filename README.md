@@ -13,7 +13,7 @@ The design ensures seamless navigation, responsiveness, and strong visual storyt
 
 ---
 
-## ✨ Features
+## ✨ Features 💠
 - 📱 Fully Responsive Design  
 - 🎞️ Smooth Animations (fade, slide, parallax)  
 - 🧭 Navigation to Section (smooth scroll)  
