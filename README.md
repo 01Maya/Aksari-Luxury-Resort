@@ -51,3 +51,8 @@ The design ensures seamless navigation, responsiveness, and strong visual storyt
 https://aksari-luxury-resort.vercel.app/
 
 
+
+
+## 📸 Screenshot
+
+![Aksari Resort UI](./resort.png)
