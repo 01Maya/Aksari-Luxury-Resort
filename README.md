@@ -83,3 +83,8 @@ npm run dev
 npm run build
 npm start
 ```
+---
+
+## 📞 Note
+
+This website is designed for **call-based booking only** (no forms or login system).
