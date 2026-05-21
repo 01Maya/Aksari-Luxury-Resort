@@ -22,7 +22,7 @@ The design ensures seamless navigation, responsiveness, and strong visual storyt
    
 ---
 
-## 🧩 Sections
+## 🧩 Sections 🗂️
 
 - **Hero:** Displays resort name, tagline, and call-to-action.  
 - **About Us:** Introduces the resort with elegant description and highlights.  
