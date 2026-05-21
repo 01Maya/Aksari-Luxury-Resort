@@ -1,4 +1,4 @@
-# 🌴 Aksari Resort Website
+# 🌴 Aksari Resort Website ✨
 
 ## 🧾 Overview
 A luxury single-resort website designed to showcase a premium coastal stay experience.  
