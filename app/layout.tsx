@@ -17,23 +17,6 @@ export const metadata: Metadata = {
   title: 'Aksari Luxury Resort | Coastal Paradise',
   description: 'Aksari - A luxury coastal resort destination offering unparalleled experiences and timeless elegance.',
   manifest: '/manifest.json',
-  icons: {
-    icon: [
-      {
-        url: '/icon-light-32x32.png',
-        media: '(prefers-color-scheme: light)',
-      },
-      {
-        url: '/icon-dark-32x32.png',
-        media: '(prefers-color-scheme: dark)',
-      },
-      {
-        url: '/icon.svg',
-        type: 'image/svg+xml',
-      },
-    ],
-    apple: '/apple-icon.png',
-  },
   keywords: ['luxury resort', 'coastal', 'travel', 'vacation', 'boutique hotel'],
   authors: [{ name: 'Aksari Resorts' }],
   openGraph: {
