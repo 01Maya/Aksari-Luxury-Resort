@@ -62,7 +62,7 @@ https://aksari-luxury-resort.vercel.app/
 ## ⚙️ Installation
 
 ```bash
-# Clone the repository
+# 1️⃣ Clone the repository
 git clone https://github.com/your-username/aksari-resort.git
 
 # Navigate into the project
