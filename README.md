@@ -68,7 +68,7 @@ git clone https://github.com/your-username/aksari-resort.git
 # 2️⃣ Navigate into the project
 cd aksari-resort
 
-# Install dependencies
+# 3️⃣ Install dependencies
 npm install
 
 # Run development server
