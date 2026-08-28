@@ -65,7 +65,7 @@ https://aksari-luxury-resort.vercel.app/
 # 1️⃣ Clone the repository
 git clone https://github.com/your-username/aksari-resort.git
 
-# Navigate into the project
+# 2️⃣ Navigate into the project
 cd aksari-resort
 
 # Install dependencies
