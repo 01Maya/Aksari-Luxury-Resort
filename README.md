@@ -56,8 +56,7 @@ https://aksari-luxury-resort.vercel.app/
 
 ## 📸 Screenshot
 
-![Aksari Resort UI](./resort.png)
-
+<img width="1763" height="11051" alt="Image" src="https://github.com/user-attachments/assets/dbd14bed-6883-4cc3-a4a1-5bf84e9406be" />
 
 ---
 ## ⚙️ Installation
